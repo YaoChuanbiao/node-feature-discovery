@@ -1,0 +1,1 @@
+from nvcr.io/nvidia/gpu-feature-discovery:v0.4.1
