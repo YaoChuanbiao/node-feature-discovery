@@ -1,0 +1,1 @@
+from huggingface/transformers-pytorch-gpu:4.9.0
