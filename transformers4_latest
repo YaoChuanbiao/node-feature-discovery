@@ -1,0 +1,1 @@
+from huggingface/transformers-pytorch-gpu:latest
